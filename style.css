@@ -1,1 +1,48 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #191970;
+	background-size: cover;
+	background-position: center;
+	font-size: 15;
+}
 
+.loginbox{
+	width: 540px;
+	height: 600px;
+	background: #FFFFFF;
+	color: initial;
+	top: 50%;
+	left: 50%;
+	right: 50%;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 40px 30px;
+}
+
+.pic1{
+	width: 200px;
+	height:10%;
+	background: transparent;
+	color: transparent;
+	top:2%;
+	left:28%;
+	right: 40%;
+	position: absolute;
+	transform: translate(1%,-20%); 
+
+}
+
+h1{
+	text-align: center;
+}
+
+.loginbox input[type="Create Account"]:hover
+{
+	cursor: pointer;
+	background: #191970;
+}
+
+.loginbox a:hover
+}
